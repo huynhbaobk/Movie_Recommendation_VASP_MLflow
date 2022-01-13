@@ -1,0 +1,16 @@
+sample.json
+seed_results_test.txt
+nlp_model.pkl
+.ipynb_checkpoints/
+VASP_ML20_1_loss.json
+VASP_ML20_1_metrics.json
+__pycache__/
+main_data.csv
+model_deploy/
+movielens_dataset/
+training_result.png
+tranform.pkl
+nlp_model.pkl
+sample.json
+seed_results_test.txt
+
